@@ -1,4 +1,4 @@
-markdown: redcarpet
+markdown: kramdown
 name: "Commerce Data Service: Partnership Playbook"
 exclude:
 - CONTRIBUTING.md
