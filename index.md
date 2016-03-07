@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "18F Delivery: Partnership Playbook"
+title: "CDS: Partnership Playbook"
 ---
-This guide will help you, as an agency, understand what it’s like to work with the 18F Delivery team. You'll learn what to expect and get a sense of the challenges you may face when working with a digital service team, which will likely be a significantly different experience than working with a contractor. Many of the principles below build on specific plays in the [U.S. Digital Services Playbook](https://playbook.cio.gov), which some 18F staffers assisted in authoring.
+This guide will help you, as an agency, understand what it’s like to work with the CDS team. You'll learn what to expect and get a sense of the challenges you may face when working with a digital service team, which will likely be a significantly different experience than working with a contractor. Many of the principles below build on specific plays in the [U.S. Digital Services Playbook](https://playbook.cio.gov).
 
 The principles we use in working together are:
 
@@ -16,5 +16,3 @@ The principles we use in working together are:
 8. [We deploy projects using best practice methods and technology.]({{site.baseurl}}/8-best-practice)
 
 We’ll explain what each principle will mean to you as our partner. We also provide a set of prompting questions in the “How do you know if you’re ready” sections, which you can use with stakeholders to assess potential conflict points that may need to be resolved before we partner.
-
-[Download a PDF version of the Playbook here]({{site.baseurl}}/18FPartnershipPlaybook.pdf)

@@ -17,7 +17,6 @@ We build a product backlog of discrete chunks of functionality from the perspect
 
 We also employ principles from the Lean Startup movement, where the assumptions about how a particular piece of functionality supports a business goal or outcome are explicitly articulated and tested. How often we learn from users, and learning whether or not a feature gets us closer to our goals, are the main measures of progress for our work in a sprint. 
 
-
 Every project has deadlines and time constraints. Yet, one of the tradeoffs of building the right thing is that it’s not possible to know ahead of time exactly what features will be in a product by a certain date. By regularly revisiting and prioritizing the outcomes desired in the project, you can help ensure that the most important functionality can be included first. 
 
 ###How do you know if you’re ready to work in an agile way? 
@@ -27,4 +26,4 @@ Every project has deadlines and time constraints. Yet, one of the tradeoffs of b
 - Are you prepared to change direction rapidly on projects as the problem and possible solutions are understood more deeply?
 - Has a specific solution already been promised to stakeholders with a deadline? 
 - Have you thought about or defined desired business outcomes (such as KPIs)?
-- Is your product owner committed to participating in co-design activities, like design studios or [constructive critique](https://docs.google.com/document/d/148A7Fxz_X7PMEdXeU4FQOSTl7TQcTK25ObVa8wABcQw/edit#heading=h.hodezplyy8i5)?
+- Is your product owner committed to participating in co-design activities, like design studios or constructive critique?
